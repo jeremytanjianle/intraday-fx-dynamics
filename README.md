@@ -1,4 +1,4 @@
-# intraday_fx_dynamics
+# Intra-day dynamics of exchange rates
 Replicate findings "Intra-day dynamics of exchange rates" by Kuck &amp; Maderitsch (2018). 
 
 Kuck & Maderitsch examine intraday dynamics of major USD pairs with Quantile Regression. See diagram below.   
